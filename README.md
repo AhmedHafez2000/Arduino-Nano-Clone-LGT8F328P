@@ -39,11 +39,11 @@ The LGT8F328P offers better performance, more flexibility in analog and digital 
 This developing board can be fabricated in home a printable file is attached in PCB folder.
 
 ## 2D PCB
-![2D PCB](https://github.com/AhmedHafez2000/Battery-Level-Indicator/blob/main/PCB/2D-Top.png?raw=true)
+![2D PCB](https://github.com/AhmedHafez2000/Arduino-Nano-Clone-LGT8F328P/blob/main/PCB/2D-Top.png?raw=true)
 **NOTE:** The bottom connection are jumper wires.
 
 ## 3D PCB
-![3D PCB](https://github.com/AhmedHafez2000/Battery-Level-Indicator/blob/main/PCB/3D-Top.png?raw=true)
+![3D PCB](https://github.com/AhmedHafez2000/Arduino-Nano-Clone-LGT8F328P/blob/main/PCB/3D-Top.png?raw=true)
 
 ## DIY Sample
 ![](https://github.com/AhmedHafez2000/Arduino-Nano-Clone-LGT8F328P/blob/main/Photos/IMG_1.jpg?raw=true)
