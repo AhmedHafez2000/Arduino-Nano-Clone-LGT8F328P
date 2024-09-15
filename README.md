@@ -49,6 +49,7 @@ This developing board can be fabricated in home a printable file is attached in 
 ![](https://github.com/AhmedHafez2000/Arduino-Nano-Clone-LGT8F328P/blob/main/Photos/IMG_1.jpg?raw=true)
 ![](https://github.com/AhmedHafez2000/Arduino-Nano-Clone-LGT8F328P/blob/main/Photos/IMG_2.jpg?raw=true)
 ![](https://github.com/AhmedHafez2000/Arduino-Nano-Clone-LGT8F328P/blob/main/Photos/IMG_3.jpg?raw=true)
+![](https://github.com/AhmedHafez2000/Arduino-Nano-Clone-LGT8F328P/blob/main/Photos/IMG_4.jpg?raw=true)
 
 
 The LGT8F328P IC that I am using has already arduino bootloader so to make design easier I removed bootloader pins.
