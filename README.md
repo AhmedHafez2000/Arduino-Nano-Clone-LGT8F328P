@@ -73,4 +73,7 @@ and choose the model used
 ![](https://github.com/AhmedHafez2000/Arduino-Nano-Clone-LGT8F328P/blob/main/Photos/5.png?raw=true)
 The upload speed that work for me is 115200.
 
+### Useful Websites:
+https://wolles-elektronikkiste.de/en/lgt8f328p-lqfp32-boards
+
 
